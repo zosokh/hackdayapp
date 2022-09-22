@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hackdayapp-dev-180029-authRole",
+      "UnauthRoleArn": "arn:aws:iam::848129236285:role/amplify-hackdayapp-dev-180029-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::848129236285:role/amplify-hackdayapp-dev-180029-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-hackdayapp-dev-180029-deployment",
+      "UnauthRoleName": "amplify-hackdayapp-dev-180029-unauthRole",
+      "StackName": "amplify-hackdayapp-dev-180029",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:848129236285:stack/amplify-hackdayapp-dev-180029/02406840-3a55-11ed-bc61-067cfb8f8719",
+      "AmplifyAppId": "d1v1yu2qimrm37"
+    },
+    "categories": {
+      "auth": {
+        "hackdayapp937a58e6": {}
+      }
+    }
+  }
+}
